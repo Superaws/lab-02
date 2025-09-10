@@ -2,12 +2,12 @@
 
 ## Student Details
 
-- **Full Name:** `<Enter name>`
-- **CCID:** `<Enter ccid>`
+- **Full Name:** Ronan St. Amand
+- **CCID:** rstamand
 
 ## References and Resources
 
-List any resources used here, or simply put `N/A` if not applicable.
+developer.android.com api reference
 
 ## Verbal Collaboration
 
